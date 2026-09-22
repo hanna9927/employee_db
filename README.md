@@ -58,7 +58,7 @@ The project demonstrates the following SQL constraints:
 
 ### CREATE
 
-* Create the `company_db` database
+* Create the `Employee_database` database
 * Create the `Departments` table
 * Create the `Location` table
 * Create the `Employees` table
@@ -68,7 +68,7 @@ The project demonstrates the following SQL constraints:
 ### ALTER
 
 * Add the `email` column to the Employees table
-* Modify the `designation` column
+* Changes the Designation column size to 255 characters.
 * Drop the `age` column
 * Rename `hire_date` to `date_of_joining`
 
@@ -84,7 +84,7 @@ The project demonstrates the following SQL constraints:
 ### DROP
 
 * Drop the Employees table
-* Drop the `company_db` database
+* Drop the `Employee_database` database
 
 ##  Sample Data
 
